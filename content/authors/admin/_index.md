@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ziyue Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Gap Year Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: None
+    # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in **generic machine learning framework**, with a focus on devising advanced **ensemble learning** algorithms which are applicable to wide-ranging fields, e.g., **domain generalization**.
@@ -28,7 +28,7 @@ education:
     - course: MEng in Computer Science and Technology
       institution: ShanghaiTech University
       year: 2022
-    - course: MEng in Computer Science and Technology
+    - course: BSc in Computer Science and Technology
       institution: ShanghaiTech University
       year: 2019
     - course: Minor in Finance
