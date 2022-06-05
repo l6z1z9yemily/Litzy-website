@@ -34,7 +34,7 @@ abstract: Politicians’ tweets can have important political and economic implic
 # Summary. An optional shortened abstract.
 summary: A tweet interpretation framework which automatically extracts focal tweet clauses and tracks previous news to discover the event-specific reasons that trigger politicians to tweet them.
 
-tags: []
+tags: [Social Media Mining]
 
 # Display this page in the Featured widget?
 featured: true
