@@ -29,7 +29,7 @@ abstract: Fine-tuning pretrained models is a common practice in domain
   benchmarks show that SEDGE achieves significant performance improvements
   comparing to strong baselines including state-of-the-art method in DG tasks
   and reduces the trainable parameters by ~99% and the training time by ~99.5%.
-draft: true
+draft: false
 tags:
   - Domain Generalization
   - Ensemble Learning
