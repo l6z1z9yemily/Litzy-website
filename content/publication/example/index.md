@@ -3,11 +3,11 @@ title: Why does the president tweet this? Discovering reasons and contexts for
   politicians’ tweets from news articles
 authors:
   - admin
-  - H. Hu
-  - H. Wang
-  - C. Lu
-  - H. Zhang
-  - and K. Zhang
+  - Hang Hu
+  - He Wang
+  - Caiwei Lu
+  - Haipeng Zhang
+  - and Kunpeng Zhang
 author_notes: []
 publication_short: In *IP&M*
 abstract: >-
@@ -52,7 +52,7 @@ publication: In *Information Processing & Management*
 featured: true
 date: 2022-06-06T16:16:00.649Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.ipm.2022.102892
