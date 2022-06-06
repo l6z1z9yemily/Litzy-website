@@ -1,4 +1,7 @@
 ---
+title: Domain Generalization using Pretrained Models without Fine-tuning
+publication_types:
+  - "3"
 authors:
   - admin
   - Kan Ren
@@ -6,7 +9,7 @@ authors:
   - Bo Li
   - Haipeng Zhang
   - Dongsheng Li
-publication_short: ""
+doi: ""
 abstract: Fine-tuning pretrained models is a common practice in domain
   generalization (DG) tasks. However, fine-tuning is usually computationally
   expensive due to the ever-growing size of pretrained models. More importantly,
@@ -26,18 +29,16 @@ abstract: Fine-tuning pretrained models is a common practice in domain
   benchmarks show that SEDGE achieves significant performance improvements
   comparing to strong baselines including state-of-the-art method in DG tasks
   and reduces the trainable parameters by ~99% and the training time by ~99.5%.
+draft: true
 tags:
   - Domain Generalization
   - Ensemble Learning
 categories:
   - Domain Generalization
   - Ensemble Learning
-projects:
-  - example
-slides: example
+projects: []
+slides: ""
 url_pdf: ""
-publication_types:
-  - "3"
 image:
   caption: The comparison of the average performance (x-axis, the higher the
     better) of different algorithms, their training time (y-axis, the smaller
@@ -52,15 +53,14 @@ summary: A new domain generalization paradigm that leverages pretrained models
   predict each test sample.
 url_dataset: ""
 url_project: ""
+publication: In *arXiv*
+publication_short: ""
 url_source: ""
 url_video: ""
-publication: In *arXiv*
 featured: true
 date: 2022-06-06T16:36:26.436Z
 url_slides: ""
-title: Domain Generalization using Pretrained Models without Fine-tuning
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://arxiv.org/pdf/2203.04600v1.pdf
 ---
