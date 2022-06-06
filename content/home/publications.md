@@ -14,6 +14,7 @@ subtitle: ''
 
 content:
   # Filter on criteria
+  
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -26,7 +27,7 @@ content:
       tag: Deep Learning
     - name: Other
       tag: Demo
-      
+
   filters:
     folders:
       - publication
