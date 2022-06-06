@@ -34,9 +34,8 @@ tags:
   - Social Media Mining
 categories:
   - Social Media Mining
-projects:
-  - example
-slides: example
+projects: []
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
