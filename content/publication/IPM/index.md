@@ -36,7 +36,7 @@ categories:
   - Social Media Mining
 projects:
   - example
-slides: ""
+slides: example
 url_pdf: ""
 publication_types:
   - "2"
