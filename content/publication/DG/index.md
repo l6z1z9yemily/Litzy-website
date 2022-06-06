@@ -32,8 +32,9 @@ tags:
 categories:
   - Domain Generalization
   - Ensemble Learning
-projects: []
-slides: ""
+projects:
+  - example
+slides: example
 url_pdf: ""
 publication_types:
   - "3"
@@ -47,8 +48,8 @@ image:
   preview_only: false
   filename: sedge.png
 summary: A new domain generalization paradigm that leverages pretrained models
-  better by *dynamically dispatching specialized pretrained model ensemble to
-  predict each test sample*.
+  better by dynamically dispatching specialized pretrained model ensemble to
+  predict each test sample.
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -58,7 +59,7 @@ featured: true
 date: 2022-06-06T16:36:26.436Z
 url_slides: ""
 title: Domain Generalization using Pretrained Models without Fine-tuning
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://arxiv.org/pdf/2203.04600v1.pdf
