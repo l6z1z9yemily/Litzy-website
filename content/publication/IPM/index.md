@@ -9,6 +9,7 @@ authors:
   - Haipeng Zhang
   - and Kunpeng Zhang
 author_notes: []
+doi: https://doi.org/10.1016/j.ipm.2022.102892
 publication_short: In *IP&M*
 abstract: >-
   Politicians’ tweets can have important political and economic implications.
@@ -30,6 +31,8 @@ abstract: >-
 
   We propose the first end-to-end framework for discovering causal backgrounds of politicians’ tweets by: 1. Designing an Open IE system considering rule-free representations for tweets; 2. Introducing sources like Wikipedia linkage and edit history to identify focal contents; 3. Finding implicit causalities between different contexts using explicit causalities learned elsewhere. We curate a comprehensive dataset of interpretations from political journalists for 533 tweets from 5 US politicians. On average, we obtain the correct answers within top-2 recommendations. We make our dataset and framework code publicly available.
 tags:
+  - Social Media Mining
+categories:
   - Social Media Mining
 projects: []
 slides: ""
@@ -55,5 +58,4 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1016/j.ipm.2022.102892
 ---
