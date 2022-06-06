@@ -40,10 +40,10 @@ url_pdf: ""
 publication_types:
   - "2"
 image:
-  caption: Tweet interpretation framework.
+  caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.jpg
+  filename: ""
 summary: A tweet interpretation framework which automatically extracts focal
   tweet clauses and tracks previous news to discover the event-specific reasons
   that trigger politicians to tweet them.
