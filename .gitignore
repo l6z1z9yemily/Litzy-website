@@ -10,7 +10,7 @@ go.sum
 .hugo_build.lock
 
 
-project/
-post/
-event/
-slides/
+project/*
+post/*
+event/*
+slides/*
