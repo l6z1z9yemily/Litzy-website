@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: AI/ML group, Microsoft Research Asia
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: Microsoft_logo
+    location: Shanghai
+    date_start: '2022-06-08'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: AI/ML group
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: AI/ML group, Microsoft Research Asia
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: Microsoft_logo
+    location: Shanghai
+    date_start: '2021-06-15'
+    date_end: '2022-03-31'
+    description: |2-
+    Mentors: [Kan Ren](http://www.saying.ren/), [Dongsheng Li](http://recmind.cn/), and [Xinyang Jiang](https://www.linkedin.com/in/xinyang-jiang-ab5416b0/)\\
+
+    Research experience: automated ensemble learning and domain generalization
+
+    Awards: 2021 & 2022 Award of Excellence for Stars of Tomorrow Internship Program
 
 design:
   columns: '2'
