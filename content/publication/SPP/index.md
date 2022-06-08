@@ -1,5 +1,5 @@
 ---
-title: Semantics from Look and Sound: Learning Chinese Character Representations from Function-Specific Components and Pronunciations
+title: "Semantics from Look and Sound: Learning Chinese Character Representations from Function-Specific Components and Pronunciations"
 publication_types:
   - "3"
 authors:
