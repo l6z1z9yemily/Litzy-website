@@ -20,11 +20,11 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-# image:
-#   caption: ""
-#   focal_point: ""
-#   preview_only: false
-#   filename: ""
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: ""
 summary: A hierarchical-attention-based model which distinguishes the importance of function-specific information at sub-character level.
 url_dataset: ""
 url_project: ""
