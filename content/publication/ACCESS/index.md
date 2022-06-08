@@ -1,5 +1,5 @@
 ---
-title: One Step Ahead: A Framework for Detecting Unexpected Incidents and Predicting the Stock Markets
+title: "One Step Ahead: A Framework for Detecting Unexpected Incidents and Predicting the Stock Markets"
 authors:
   - admin
   - Shiwei Lyu
