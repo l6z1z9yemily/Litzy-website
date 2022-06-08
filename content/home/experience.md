@@ -46,7 +46,7 @@ experience:
   - title: Software Interface Designer
     company: Fuji Xerox China. Co. Ltd
     company_url: ''
-    company_logo: xerox-logo-1
+    company_logo: xerox-2008
     location: Shanghai, China
     date_start: '2018-10-01'
     date_end: '2019-03-31'
