@@ -28,7 +28,7 @@ image:
  (d) uses the model confidence of the ground truth labels to weight the training loss and aggregate the model predictions accordingly.
   focal_point: ""
   preview_only: false
-  filename: sedge.png
+  # filename: sedge.png
 summary: A novel ensemble learning approach which actively encourages model specialization and aggregates model predictions according to the estimated *sample-level model specialty*.
 url_dataset: ""
 url_project: ""
