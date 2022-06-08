@@ -38,7 +38,7 @@ categories:
   - Ensemble Learning
 projects: []
 slides: ""
-url_pdf: "https://arxiv.org/pdf/2203.04600.pdf"
+url_pdf: https://arxiv.org/pdf/2203.04600.pdf
 image:
   caption: The comparison of the average performance (x-axis, the higher the
     better) of different algorithms, their training time (y-axis, the smaller
@@ -57,7 +57,7 @@ publication: In *arXiv*
 publication_short: ""
 url_source: ""
 url_video: ""
-featured: true
+featured: false
 date: 2022-06-06T16:36:26.436Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
