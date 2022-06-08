@@ -20,12 +20,7 @@ projects: []
 slides: ""
 url_pdf: "https://openreview.net/pdf?id=pLNLdHrZmcX"
 image:
-  caption: Comparison of three different ensemble methods on the synthetic checkboard dataset (a).
- The first three columns in (b) (c) (d) are decision boundaries of two base models and the final ensemble model, resp.,
- while the last two columns indicate the samples by gray dots for which each base model makes correct predictions.
- (b) is averaging ensemble of models with randomly initialization and trained independently.
- (c) introduces a negative correlation (diversity) loss to minimize in additional to the vanilla prediction loss utilized in (b).
- (d) uses the model confidence of the ground truth labels to weight the training loss and aggregate the model predictions accordingly.
+  caption: Comparison of three different ensemble methods on the synthetic checkboard dataset (a). The first three columns in (b) (c) (d) are decision boundaries of two base models and the final ensemble model, resp., while the last two columns indicate the samples by gray dots for which each base model makes correct predictions. (b) is averaging ensemble of models with randomly initialization and trained independently. (c) introduces a negative correlation (diversity) loss to minimize in additional to the vanilla prediction loss utilized in (b). (d) uses the model confidence of the ground truth labels to weight the training loss and aggregate the model predictions accordingly.
   focal_point: ""
   preview_only: false
   # filename: sedge.png
