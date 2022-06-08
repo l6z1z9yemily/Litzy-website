@@ -14,3 +14,7 @@ project/*
 post/*
 event/*
 slides/*
+
+posts.md
+projects.md
+accomplishments.md
