@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: AI/ML group, Microsoft Research Asia
     company_url: ''
-    company_logo: Microsoft_logo
+    company_logo: microsoft-5
     location: Shanghai
     date_start: '2022-06-08'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Research Intern
     company: AI/ML group, Microsoft Research Asia
     company_url: ''
-    company_logo: Microsoft_logo
+    company_logo: microsoft-5
     location: Shanghai
     date_start: '2021-06-15'
     date_end: '2022-03-31'
