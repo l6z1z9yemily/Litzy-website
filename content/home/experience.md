@@ -26,22 +26,31 @@ experience:
     company: AI/ML group, Microsoft Research Asia
     company_url: ''
     company_logo: microsoft-5
-    location: Shanghai
+    location: Shanghai, China
     date_start: '2022-06-08'
     date_end: ''
-    description: AI/ML group
+    # description: 
 
   - title: Research Intern
     company: AI/ML group, Microsoft Research Asia
     company_url: ''
     company_logo: microsoft-5
-    location: Shanghai
+    location: Shanghai, China
     date_start: '2021-06-15'
     date_end: '2022-03-31'
     description: |2-
-        * Mentors: [Kan Ren](http://www.saying.ren/), [Dongsheng Li](http://recmind.cn/), and [Xinyang Jiang](https://www.linkedin.com/in/xinyang-jiang-ab5416b0/)\\
+        * Mentors: [Kan Ren](http://www.saying.ren/), [Dongsheng Li](http://recmind.cn/), and [Xinyang Jiang](https://www.linkedin.com/in/xinyang-jiang-ab5416b0/)
         * Research experience: automated ensemble learning and domain generalization
         * Awards: 2021 & 2022 Award of Excellence for Stars of Tomorrow Internship Program
+
+  - title: Software Interface Designer
+    company: Fuji Xerox China. Co. Ltd
+    company_url: ''
+    company_logo: xerox-logo-1
+    location: Shanghai, China
+    date_start: '2018-10-01'
+    date_end: '2019-03-31'
+    description: Using javaScript for printer software interface design
  
 
 design:
