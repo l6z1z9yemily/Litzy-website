@@ -39,11 +39,10 @@ experience:
     date_start: '2021-06-15'
     date_end: '2022-03-31'
     description: |2-
-    Mentors: [Kan Ren](http://www.saying.ren/), [Dongsheng Li](http://recmind.cn/), and [Xinyang Jiang](https://www.linkedin.com/in/xinyang-jiang-ab5416b0/)\\
-
-    Research experience: automated ensemble learning and domain generalization
-
-    Awards: 2021 & 2022 Award of Excellence for Stars of Tomorrow Internship Program
+        * Mentors: [Kan Ren](http://www.saying.ren/), [Dongsheng Li](http://recmind.cn/), and [Xinyang Jiang](https://www.linkedin.com/in/xinyang-jiang-ab5416b0/)\\
+        * Research experience: automated ensemble learning and domain generalization
+        * Awards: 2021 & 2022 Award of Excellence for Stars of Tomorrow Internship Program
+ 
 
 design:
   columns: '2'
