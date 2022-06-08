@@ -26,7 +26,7 @@ image:
 summary: A hierarchical-attention-based model which distinguishes the importance of function-specific information at sub-character level.
 url_dataset: ""
 url_project: ""
-publication: Submitted to *ECCV'22*
+publication: Submitted to *CIKM'22*
 publication_short: ""
 url_source: ""
 url_video: ""
