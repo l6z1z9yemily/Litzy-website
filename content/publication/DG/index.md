@@ -47,7 +47,7 @@ image:
     parameters, test accuracy, training time) of each algorithm.
   focal_point: ""
   preview_only: false
-  filename: sedge.png
+  # filename: sedge.png
 summary: A new domain generalization paradigm that leverages pretrained models
   better by dynamically dispatching specialized pretrained model ensemble to
   predict each test sample.
@@ -57,7 +57,7 @@ publication: In *arXiv*
 publication_short: ""
 url_source: ""
 url_video: ""
-featured: false
+featured: true
 date: 2022-06-06T16:36:26.436Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
